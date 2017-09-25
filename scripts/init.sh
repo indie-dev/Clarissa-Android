@@ -1,0 +1,22 @@
+#!/system/bin/sh
+export TERM=screen
+export PATH=/data/user/0/org.qpython.qpy/files/bin:/vendor/bin:/system/bin:/system/xbin
+export LD_LIBRARY_PATH=.:/data/user/0/org.qpython.qpy/files/lib/:/data/user/0/org.qpython.qpy/files/:/data/user/0/org.qpython.qpy/lib/
+export PYTHONHOME=/data/user/0/org.qpython.qpy/files
+export ANDROID_PRIVATE=/data/user/0/org.qpython.qpy/files
+export PYTHONPATH=/data/user/0/org.qpython.qpy/files/lib/python2.7/site-packages/:/data/user/0/org.qpython.qpy/files/lib/python2.7/:/data/user/0/org.qpython.qpy/files/lib/python27.zip:/data/user/0/org.qpython.qpy/files/lib/python2.7/lib-dynload/:/storage/emulated/0/qpython/lib/python2.7/site-packages/:/storage/emulated/0/qpython
+export PYTHONOPTIMIZE=2
+export TMPDIR=/storage/emulated/0/qpython/cache
+export AP_HOST=127.0.0.1
+export AP_PORT=38232
+export AP_HANDSHAKE=af633fb4-d8d5-4ae9-a3b6-6babcb62a5ed
+export ANDROID_PUBLIC=/storage/emulated/0/qpython
+export ANDROID_PRIVATE=/data/user/0/org.qpython.qpy/files
+export ANDROID_ARGUMENT=/storage/emulated/0/qpython
+export PYTHONSTARTUP=/data/user/0/org.qpython.qpy/files/lib/python2.7/site-packages/qpy.py
+export QPY_USERNO=8bb4e594-aeb2-4590-bc1b-1ec4051e0da8
+export QPY_ARGUMENT={"adx_setting":"pa|marquee","adx_splash":"pa|full"}
+export PYTHONDONTWRITEBYTECODE=1
+export TMP=/storage/emulated/0/qpython/cache
+export ANDROID_APP_PATH=/storage/emulated/0/qpython
+export LANG=en_US.UTF-8
